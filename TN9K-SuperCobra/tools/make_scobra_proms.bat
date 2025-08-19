@@ -8,6 +8,7 @@ make_vhdl_prom 5c ROM_SND_0.vhd
 make_vhdl_prom 5d ROM_SND_1.vhd
 make_vhdl_prom 5e ROM_SND_2.vhd
 
-rem make_vhdl_prom 82s123.6e scobra_lut.vhd
+make_vhdl_prom 82s123.6e ROM_LUT.vhd
+
 
 pause
