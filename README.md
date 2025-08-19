@@ -1,2 +1,4 @@
-# TangNano9K-SuperCobra
-Super Cobra Arcade synthesized on a Tang Nano 9K FPGA Board. 
+# Tang Nano 9K - Super Cobra
+![Model](TN9K-SuperCobra.jpg)
+
+Super Cobra Arcade vhdl code ported to a Tang Nano 9K FPGA Board. Works with VGA Monitor. Code from MikeJ.
